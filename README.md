@@ -1,1 +1,1 @@
-# fashion-webscraper
+# Python Sustainable Fashion Webscraper
